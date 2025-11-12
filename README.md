@@ -17,9 +17,9 @@ Currently diving deeper into **C**, **HTML**, and **CSS**, while always experime
 
 ### 🛠️ Tech Stack
 ```text
-💡 Languages: C, HTML, CSS, JavaScript
-🧩 Tools: VS Code, Zed, Sublime Text
-🌐 Other: Git, GitHub, Chrome DevTools
+💡 Languages: C, HTML, CSS, JavaScript, Typescript, React
+🧩 Tools: VS Code, Zed, Sublime Text, Cursor
+🌐 Other: Git, GitHub, Chrome DevTools, 
 
 <!--
 **SharkyTailer/SharkyTailer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
