@@ -16,7 +16,7 @@ Currently diving deeper into **C**, **HTML**, and **CSS**, while always experime
 ---
 
 ### 🛠️ Tech Stack
-```text
+
 💡 Languages: C, HTML, CSS, JavaScript, Typescript, React
 🧩 Tools: VS Code, Zed, Sublime Text, Cursor
 🌐 Other: Git, GitHub, Chrome DevTools, 
@@ -30,4 +30,4 @@ Currently diving deeper into **C**, **HTML**, and **CSS**, while always experime
 - 📫 How to reach me: [Sharkytailer@gmail.com](mailto:sharkytailer@gmail.com)
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I play the saxophone
--->
+
