@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Im Kristian,
+Im Kristian, a sofwtare engineer based on Kenya.
+I design and build whatever I can imagine.
 <!--
 **SharkyTailer/SharkyTailer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
